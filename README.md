@@ -1,1 +1,3 @@
 # Projeto_1Semestre_2024_Senai
+
+Pasta Docs contém documentação do projeto diagrama,requisitos etc...
